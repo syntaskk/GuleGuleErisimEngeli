@@ -19,8 +19,7 @@ MEB ve ISP erişim engellerini aşmak için basit VPN çözümü. İnterneti ner
 ## Gereksinimler
 
 - Windows 10/11
-- Python 3.X
-- İnternet bağlantısı
+- Güven
 
 ## Kullanım
 
@@ -50,4 +49,5 @@ Pull request'ler kabul edilir.
 ---
 
 ⭐ Beğendiyseniz yıldızlayın lütpen 😖
+
 ```
